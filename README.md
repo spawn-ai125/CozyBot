@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Algorithms-NMP_|_Zobrist_|_Killers-darkgreen?style=for-the-badge" alt="Tech Stack" />
   <img src="https://img.shields.io/badge/Category-Chess_AI-blue?style=for-the-badge" alt="Field" />
 
-  <h1>🎯 HexaEngine Pro v3.0</h1>
+  <h1>🎯 HexaEngine Pro v1.0</h1>
   <p>An elite, hyper-optimized <b>single-file</b> chess engine designed to out-calculate opponents using predictive heuristics and tactical traps.</p>
 </div>
 
